@@ -17,10 +17,10 @@ This project is built to learn and demonstrate how to implement a modular and sc
 
 ## 🧱 Architecture Structure
 EmployeeManagementDBF.sln
-├── EmployeeManagementDBF.Web // UI Layer (ASP.NET MVC 4)
-├── EmployeeManagementDBF.Application // Application Layer (business logic)
-├── EmployeeManagementDBF.Domain // Domain Layer (entities, interfaces)
-├── EmployeeManagementDBF.Infrastructure // Data Layer (EF, repositories)
+ - EmployeeManagementDBF.Web // UI Layer (ASP.NET MVC 4)
+ - EmployeeManagementDBF.Application // Application Layer (business logic)
+ - EmployeeManagementDBF.Domain // Domain Layer (entities, interfaces)
+ - EmployeeManagementDBF.Infrastructure // Data Layer (EF, repositories)
 
 
 Each layer communicates only with the next inner layer, following Clean Architecture principles.
