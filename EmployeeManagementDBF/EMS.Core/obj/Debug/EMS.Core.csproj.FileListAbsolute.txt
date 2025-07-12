@@ -1,0 +1,6 @@
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Core\bin\Debug\EMS.Core.dll
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Core\bin\Debug\EMS.Core.pdb
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Core\obj\Debug\EMS.Core.csproj.AssemblyReference.cache
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Core\obj\Debug\EMS.Core.csproj.CoreCompileInputs.cache
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Core\obj\Debug\EMS.Core.dll
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Core\obj\Debug\EMS.Core.pdb

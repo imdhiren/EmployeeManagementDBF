@@ -1,0 +1,9 @@
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Infrastructure\bin\Debug\EMS.Infrastructure.dll
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Infrastructure\bin\Debug\EMS.Infrastructure.pdb
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Infrastructure\bin\Debug\EMS.Core.dll
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Infrastructure\bin\Debug\EMS.Core.pdb
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Infrastructure\obj\Debug\EMS.Infrastructure.csproj.AssemblyReference.cache
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Infrastructure\obj\Debug\EMS.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Infrastructure\obj\Debug\EMS.Infr.CB012292.Up2Date
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Infrastructure\obj\Debug\EMS.Infrastructure.dll
+E:\Workspace\Git_Home\EmployeeManagementDBF\EmployeeManagementDBF\EMS.Infrastructure\obj\Debug\EMS.Infrastructure.pdb
