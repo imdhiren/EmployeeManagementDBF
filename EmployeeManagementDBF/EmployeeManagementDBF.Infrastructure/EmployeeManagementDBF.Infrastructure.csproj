@@ -48,7 +48,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Department.cs">
       <DependentUpon>EmployeeModel.tt</DependentUpon>
     </Compile>
@@ -96,9 +95,16 @@
       <DependentUpon>EmployeeModel.edmx</DependentUpon>
       <LastGenOutput>EmployeeModel.cs</LastGenOutput>
     </Content>
+    <Content Include="readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EmployeeManagementDBF.Domain\EmployeeManagementDBF.Domain.csproj">
+      <Project>{e705cd74-c07f-4495-8ea4-21823fe9c58c}</Project>
+      <Name>EmployeeManagementDBF.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

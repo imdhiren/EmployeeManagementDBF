@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS.Web", "EmployeeManagementDBF.Web\EMS.Web.csproj", "{E8AF624B-0CE2-476C-9AC4-E2FAA9C1FE01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2D1C1AF3-F634-41C7-A37F-0048B6973FF9}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS.Core", "EMSDBF.Core\EMS.Core.csproj", "{432B0891-3640-42E6-A6FC-45FA95207FE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS.Business", "EMS.Business\EMS.Business.csproj", "{E8C8FDF9-4E54-4298-807C-042EF6B7A971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS.Data", "EMS.Data\EMS.Data.csproj", "{72B8EA16-19F9-46F3-9463-07370BE9C4C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS.Infrastructure", "EMS.Infrastructure\EMS.Infrastructure.csproj", "{8166768A-6FD9-482B-AC24-ADDD99823F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8AF624B-0CE2-476C-9AC4-E2FAA9C1FE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8AF624B-0CE2-476C-9AC4-E2FAA9C1FE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8AF624B-0CE2-476C-9AC4-E2FAA9C1FE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8AF624B-0CE2-476C-9AC4-E2FAA9C1FE01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432B0891-3640-42E6-A6FC-45FA95207FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432B0891-3640-42E6-A6FC-45FA95207FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432B0891-3640-42E6-A6FC-45FA95207FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432B0891-3640-42E6-A6FC-45FA95207FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C8FDF9-4E54-4298-807C-042EF6B7A971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C8FDF9-4E54-4298-807C-042EF6B7A971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C8FDF9-4E54-4298-807C-042EF6B7A971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C8FDF9-4E54-4298-807C-042EF6B7A971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B8EA16-19F9-46F3-9463-07370BE9C4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B8EA16-19F9-46F3-9463-07370BE9C4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B8EA16-19F9-46F3-9463-07370BE9C4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B8EA16-19F9-46F3-9463-07370BE9C4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8166768A-6FD9-482B-AC24-ADDD99823F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8166768A-6FD9-482B-AC24-ADDD99823F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8166768A-6FD9-482B-AC24-ADDD99823F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8166768A-6FD9-482B-AC24-ADDD99823F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

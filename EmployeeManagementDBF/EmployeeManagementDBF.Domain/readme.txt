@@ -1,0 +1,2 @@
+﻿The Entity Layer represents the actual storage of data. It includes the database server and the schema design. 
+The DAL communicates with this layer to perform CRUD (Create, Read, Update, Delete) operations.

@@ -282,6 +282,20 @@
     <Content Include="Scripts\jquery-3.7.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.7.0.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EMS.Business\EMS.Business.csproj">
+      <Project>{e8c8fdf9-4e54-4298-807c-042ef6b7a971}</Project>
+      <Name>EMS.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EMS.Infrastructure\EMS.Infrastructure.csproj">
+      <Project>{8166768a-6fd9-482b-ac24-addd99823f81}</Project>
+      <Name>EMS.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EMSDBF.Core\EMS.Core.csproj">
+      <Project>{432b0891-3640-42e6-a6fc-45fa95207fe9}</Project>
+      <Name>EMS.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
