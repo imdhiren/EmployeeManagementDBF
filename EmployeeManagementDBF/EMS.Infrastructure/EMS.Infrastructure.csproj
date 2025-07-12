@@ -44,8 +44,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EMSDBF.Core\EMS.Core.csproj">
-      <Project>{432b0891-3640-42e6-a6fc-45fa95207fe9}</Project>
+    <ProjectReference Include="..\EMS.Core\EMS.Core.csproj">
+      <Project>{84e9b8c8-50eb-4f1c-a74a-ac27903fcb01}</Project>
       <Name>EMS.Core</Name>
     </ProjectReference>
   </ItemGroup>

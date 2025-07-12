@@ -44,13 +44,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\EMS.Core\EMS.Core.csproj">
+      <Project>{84e9b8c8-50eb-4f1c-a74a-ac27903fcb01}</Project>
+      <Name>EMS.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="..\EMS.Data\EMS.Data.csproj">
       <Project>{72b8ea16-19f9-46f3-9463-07370be9c4c6}</Project>
       <Name>EMS.Data</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\EMSDBF.Core\EMS.Core.csproj">
-      <Project>{432b0891-3640-42e6-a6fc-45fa95207fe9}</Project>
-      <Name>EMS.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
